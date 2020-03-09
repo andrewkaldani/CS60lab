@@ -1,27 +1,4 @@
-Enable desktop notifications for Santa Clara University Mail.
-   OK  No thanks
 
-4 of 10
-Fwd: Lab 3 Graham Kaldani
-Inbox
-x
-
-Adam Graham
-Attachments
-Mon, Jan 27, 9:17 AM (8 days ago)
-to me
-
-
-
----------- Forwarded message ---------
-From: Adam Graham <ajgraham@scu.edu>
-Date: Thu, Jan 23, 2020, 7:27 PM
-Subject: Lab 3 Graham Kaldani
-To: <cs60labthurs@gmail.com>
-
-
-Fixed for last one, #7.
-3 Attachments
 
 #include "biguint.h"
 #include <string>
