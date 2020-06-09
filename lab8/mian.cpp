@@ -1,18 +1,4 @@
-Enable desktop notifications for Santa Clara University Mail.
-   OK  No thanks
-Meet
-Chat
 
-2 of 2
-Lab 8 Robert Truog
-
-Andrew Kaldani <akaldani@scu.edu>
-Attachments
-Thu, Feb 27, 6:55 PM
-to cs60labthurs, Robert
-
-
-5 Attachments
 
 #include <iostream>
 #include "node.h"
