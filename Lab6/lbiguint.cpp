@@ -1,36 +1,6 @@
-Enable desktop notifications for Santa Clara University Mail.
-   OK  No thanks
-Meet
-Chat
-
-1 of 2
-Lab 9 Kaldani, Truog, Young
-
-Andrew Kaldani
-AttachmentsSun, Mar 8, 6:37 PM
-1A. lbiguint::lbiguint() { head = tail = new node(0,nullptr); } 1B. lbiguint::lbiguint(const std::string & s){ node *temp = new node(s[0]-'0',nullptr); tail = t
-
-Andrew Kaldani <akaldani@scu.edu>
-Attachments
-Tue, Mar 10, 2:51 PM
-to cs60labthurs@gmail.com
 
 
-3 Attachments
 
-Andrew Kaldani <akaldani@scu.edu>
-Attachments
-Wed, Mar 11, 5:16 PM
-to Natalie, cs60labthurs
-
-Hi Professor Linnell,
-
-Attached is the email
-
-Thanks,
-Andrew
-
-3 Attachments
 
 #include "lbiguint.h"
 #include "node.h"
